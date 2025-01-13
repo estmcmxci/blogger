@@ -1,6 +1,6 @@
 module.exports = {
   title: "Welcome",
-  shortTitle: "3σ",
+  shortTitle: "𝔪<sup>✶</sup>",
   description:
     "A blogsite",
   url: "https://estmcmxci.co",

@@ -281,7 +281,7 @@ I’ve laid bare my struggles, strengths, and unique perspective at the intersec
 
 <div style="width: 900px; max-width: 100%; margin: 2rem auto;">
   <div style="position: relative; padding-top: 56.25%; /* 16:9 aspect ratio */">
-    <img src="/Posts/let-us-build.jpg" alt="cmd" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+    <img src="/Posts/let-us-build-1.png" alt="cmd" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
   </div>
 </div>
 
@@ -320,7 +320,7 @@ I desire renewal, redemption, and a second chance—this time with sobriety, tac
 
 <div style="text-align: justify;">
 
-If any of this resonates with you—on a personal or professional level—please [reach out](mailto:m@oakgroup.co). This is your invitation to step into the twilight and co-author the next chapter of our new world. 
+If any of this resonates with you—on a personal or professional level—please [reach out](mailto:m@agustin.house). This is your invitation to step into the twilight and co-author the next chapter of our new world. 
 </div>
 
 
@@ -328,7 +328,7 @@ If any of this resonates with you—on a personal or professional level—please
 
 <div style="text-align: justify; padding-top: 70px;">
 
-© OAKGROUP, WORLDWIDE., 2024. All rights reserved.
+© Agustín Foundation., 2025. All rights reserved.
 
 </div>
 
